@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.7.195 on 2017-10-14 at 10:46 (GMT+2)-->
-<keyboard group="29" id="31230" name="Lupulus CZ" maxout="3">
+<!--Last edited by Ukelele version 3.2.7.195 on 2018-03-17 at 13:26 (CET)-->
+<keyboard group="126" id="-11291" name="Lupulus" maxout="3">
 	<layouts>
 		<layout first="0" last="0" mapSet="138" modifiers="30"/>
 	</layouts>
