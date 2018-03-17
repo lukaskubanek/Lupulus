@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.7.195 on 2018-03-17 at 13:26 (CET)-->
+<!--Last edited by Ukelele version 3.2.7.195 on 2018-03-17 at 13:59 (CET)-->
 <keyboard group="126" id="-11291" name="Lupulus" maxout="3">
 	<layouts>
 		<layout first="0" last="0" mapSet="138" modifiers="30"/>
@@ -748,10 +748,10 @@
 			<key code="21" output="4"/>
 			<key code="22" output="6"/>
 			<key code="23" output="5"/>
-			<key code="24" output="/"/>
+			<key code="24" output="="/>
 			<key code="25" output="9"/>
 			<key code="26" output="7"/>
-			<key code="27" output="="/>
+			<key code="27" output="-"/>
 			<key code="28" output="8"/>
 			<key code="29" output="0"/>
 			<key code="30" output="]"/>
@@ -766,15 +766,15 @@
 			<key code="39" output="&#x0027;"/>
 			<key code="40" action="41"/>
 			<key code="41" output=";"/>
-			<key code="42" output="`"/>
+			<key code="42" output="\"/>
 			<key code="43" output=","/>
-			<key code="44" output="-"/>
+			<key code="44" output="/"/>
 			<key code="45" action="22"/>
 			<key code="46" output="m"/>
 			<key code="47" output="."/>
 			<key code="48" output="&#x0009;"/>
 			<key code="49" action="35"/>
-			<key code="50" output="\"/>
+			<key code="50" output="`"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="52" output="&#x0003;"/>
 			<key code="53" output="&#x001B;"/>
