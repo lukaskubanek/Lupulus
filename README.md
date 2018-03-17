@@ -28,3 +28,7 @@ cp /tmp/com.apple.HIToolbox.plist ~/Library/Preferences/
 ```
 
 4\. Restart the computer.
+
+## Attribution
+
+The keyboard layout uses the icon “[Hops](https://thenounproject.com/term/hops/9254/)” by [The Crew at Fusionary](https://thenounproject.com/fusionary/) from the [Noun Project](thenounproject.com).
