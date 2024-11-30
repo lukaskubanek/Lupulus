@@ -2,9 +2,29 @@
 
 Lupulus<sup id="a1">[\[1\]](#f1)</sup> is my custom keyboard layout designed for writing in Czech, German, and English, while also being optimized for programming and Terminal work. It includes custom mappings for special characters like `…`, `←`, `→`, `↔︎`, `✓`, `✗`, `×` and more, making them easily accessible without relying on text replacements, which don’t work reliably in IDEs or web-based apps.
 
-The layout was created using [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) and is intended for use with Mac keyboards with a US English layout:
+The layout was created using [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) and is intended for use with Mac keyboards with a US English layout.
 
-![](https://cdn.shopify.com/s/files/1/0810/3669/files/mac-us-english-keyboard_1024x1024.png?1871373995114389746)
+## Preview
+
+### Base (0)
+
+<img width="650" src="previews/0_base.png">
+
+### Caps Lock (1)
+
+<img width="650" src="previews/1_caps-lock.png">
+
+### Shift (2)
+
+<img width="650" src="previews/2_shift.png">
+
+### Option (3)
+
+<img width="650" src="previews/3_option.png">
+
+### Shift+Option (4)
+
+<img width="650" src="previews/4_shift+option.png">
 
 ## Installation
 
