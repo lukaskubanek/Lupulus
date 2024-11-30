@@ -26,6 +26,8 @@ The layout was created using [Ukelele](http://scripts.sil.org/cms/scripts/page.p
 
 <img width="650" src="previews/4_shift+option.png">
 
+*Screenshots were taken with the `screencapture -T 5 ~/Desktop/screenshot.png` command, providing time to activate the modifier keys.*
+
 ## Installation
 
 The keyboard layout can be installed directly from Ukelele by selecting *File > Install > Show Organizer*, navigating to the repository directory in the *Not Installed* column, right-clicking the layout, and choosing *Install for Current User*. After installation, log out and log back in to apply the changes.
